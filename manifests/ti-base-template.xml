@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <!-- <remote fetch="/"      name="origin"/> -->
+   <!-- <project remote="https://github.com/aniket-l/"   path="make-ti-bsp"          name="make-ti-bsp"                          revision="main"/> -->
+   <project remote="git://git.ti.com/"              path="ti-linux-kernel"      name="ti-linux-kernel/ti-linux-kernel"      revision="ti-linux-5.10.y"/>
+   <project remote="git://git.ti.com/"              path="ti-u-boot"            name="ti-u-boot/ti-u-boot"                  revision="ti-u-boot-2021.01"/>
+</manifest>
